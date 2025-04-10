@@ -4,14 +4,14 @@
 
   ## Table of Contents 
 
-- [Installation](#Technologiesused)
+- [Technologies](#Technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 - [Video](#Video)
 
-## **Technologies Used**
+## **Technologies **
 * Frontend - React, Vite, Typescript
 * Backend - Nodejs, Express.Js, Sequelize, Postgresql, Json Web Tokens, Dotenv
 * Typescript
