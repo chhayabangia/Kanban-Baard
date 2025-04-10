@@ -9,7 +9,7 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Video](#Video)
+- [Deployed application](#Deployed application)
 
 ## **Technologies**
 * Frontend - React, Vite, Typescript
@@ -39,11 +39,11 @@ Ensure you have the following installed:
 
 ---
 ## **License**
-  This project is licensed under the MIT License. 
+This project is licensed under the MIT License. 
 
 ## **GitHub Link**
+https://github.com/chhayabangia/Kanban-Board.git
 
-
-## Deployed application: 
+## **Deployed application**
 https://kanban-board-iy3y.onrender.com
 
