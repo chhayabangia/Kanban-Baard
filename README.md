@@ -22,11 +22,11 @@ Ensure you have the following installed:
 * A local online text editor (e.g., VS Code) to customize text
   
 **To Install**
-  1. Clone the repository
-  2. Navigate to the project folder cd/Kanban-board
-  3. Go to integrated terminal of root - package.json file
-  4. Install dependencies with the command: npm run build
-  5. Run the application wiht command - npm run start-dev
+*1. Clone the repository
+*2. Navigate to the project folder cd/Kanban-board
+*3. Go to integrated terminal of root - package.json file
+*4. Install dependencies with the command: npm run build
+*5. Run the application wiht command - npm run start-dev
  
 ## **Usage**
   1.Open Login page and enter username and password.
