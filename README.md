@@ -9,7 +9,6 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Deployed application](#Deployed application)
 
 ## **Technologies**
 * Frontend - React, Vite, Typescript
