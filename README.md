@@ -11,7 +11,7 @@
 - [License](#license)
 - [Video](#Video)
 
-## **Technologies **
+## **Technologies**
 * Frontend - React, Vite, Typescript
 * Backend - Nodejs, Express.Js, Sequelize, Postgresql, Json Web Tokens, Dotenv
 * Typescript
