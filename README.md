@@ -4,7 +4,7 @@
 
   ## Table of Contents 
 
-- [Technologies Used](#Technologies Used)
+- [Installation](#Technologiesused)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
