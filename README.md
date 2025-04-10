@@ -34,17 +34,18 @@ Ensure you have the following installed:
   3. Browse through it and Logout.
 
 ## Deployed application: 
-https://revengelmfao.github.io/christmas-assistance-application/
+https://kanban-board-iy3y.onrender.com
 
 ---
 ## **Credits**
+- Utilized Xpert Learning Assistant to resolve functionality issues
+- Attended Tutor session to troubleshoot errors
 
 ---
 ## **License**
   This project is licensed under the MIT License. 
 
-## **Walkthrough Video**
+## **GitHub Link**
 
 
-## **URL Link**
-  Here is the deployed link : 
+
