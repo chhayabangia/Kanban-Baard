@@ -32,10 +32,6 @@ Ensure you have the following installed:
   1. Open Login page and enter username and password.
   2. On successful login, an authentication using JWT will be redirected to Kanban board.
   3. Browse through it and Logout.
-
-## Deployed application: 
-https://kanban-board-iy3y.onrender.com
-
 ---
 ## **Credits**
 - Utilized Xpert Learning Assistant to resolve functionality issues
@@ -48,4 +44,6 @@ https://kanban-board-iy3y.onrender.com
 ## **GitHub Link**
 
 
+## Deployed application: 
+https://kanban-board-iy3y.onrender.com
 
