@@ -46,6 +46,11 @@ https://github.com/chhayabangia/Kanban-Board.git
 ## **Deployed application**
 https://kanban-board-iy3y.onrender.com
 
+## **Web Shots**
+
+![image](https://github.com/user-attachments/assets/a9494165-d1df-4c67-8378-911f1d175481)
+
+
 ![image](https://github.com/user-attachments/assets/0866c3f9-c02a-4907-8360-b62129190064)
 
 
